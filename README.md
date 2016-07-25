@@ -10,6 +10,18 @@ Summary notes from some of the SOTM-US attendees
 Peter's Note
 
 ---
-Someone else Note
+Paul's Note
+
+---
+Fred's Note
+
+---
+Debbie's Note
+
+---
+Joel's Note
+
+---
+Matt's Note
 
 ---
