@@ -1,5 +1,5 @@
 # SOTM-US16
-# StateofTheMap-US16
+
 Summary notes from some of the SOTM-US attendees
 
 #### When: July 23 - 25, 2016
