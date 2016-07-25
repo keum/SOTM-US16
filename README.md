@@ -10,3 +10,6 @@ Summary notes from some of the SOTM-US attendees
 Peter's Note
 
 ---
+Someone else Note
+
+---
