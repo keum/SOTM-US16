@@ -13,6 +13,7 @@ Peter's Note
 >Looked at who/where/when people were making the edits
 
 2.ImproveOSM: Using Big Data to Improve the map
+>Telenav, using their probe data, following items can help improve OSM data, they are missing roads, traffic flow and turn restriction
 
 3.OSM & the Sustainable development goals
 
