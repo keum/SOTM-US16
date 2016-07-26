@@ -10,6 +10,7 @@ Summary notes from some of the SOTM-US attendees
 Peter's Note
 #### Talks I attended Saturday
 1. Mapping the Meta
+
 ...Looked at who/where/when people were making the edits
 
 
