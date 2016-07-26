@@ -20,7 +20,12 @@ Peter's Note
 4.Combating hegemonic cartographic discourses with drones
 
 5.Field mapping with Portable OSM (POSM)
-- 
+
+6.How can AI help us make map?
+
+7.Lightning Talks
+
+#### Talks on Sunday
 
 
 
