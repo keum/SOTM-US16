@@ -9,7 +9,7 @@ Summary notes from some of the SOTM-US attendees
 ---
 Peter's Note
 * Talks I attended
-..1. Mapping the Meta
+- Mapping the Meta
 
 
 ---
