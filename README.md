@@ -25,7 +25,28 @@ Peter's Note
 
 7.Lightning Talks
 
-#### Talks on Sunday
+#### Talks I attended on Sunday
+1.From an OSM way to a Highway shield
+
+2.Trace from Space
+
+3.Validating the Map
+
+4.Millions that don't care
+
+5.Beyond fire hydrant location
+
+6.Lowering the barriers to participation with Field Papers
+
+7.BoF for Offline Mapping
+
+#### Workshops I attended on Monday
+1.Making an interactive map with OSM data (mapbox)
+
+2.DigitalGlobe and crowdsourcing map
+
+3.OpenDroneMap -> OpenAerialMap-> OpenStreetMap
+
 
 
 
