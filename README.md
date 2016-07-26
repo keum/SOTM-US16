@@ -18,35 +18,35 @@ Using Big Data to Improve the map
 
 3. OSM & the Sustainable development goals
 
-4.Combating hegemonic cartographic discourses with drones
+4. Combating hegemonic cartographic discourses with drones
 
-5.Field mapping with Portable OSM (POSM)
+5. Field mapping with Portable OSM (POSM)
 
-6.How can AI help us make map?
+6. How can AI help us make map?
 
-7.Lightning Talks
+7. Lightning Talks
 
 #### Talks I attended on Sunday
-1.From an OSM way to a Highway shield
+1. From an OSM way to a Highway shield
 
-2.Trace from Space
+2. Trace from Space
 
-3.Validating the Map
+3. Validating the Map
 
-4.Millions that don't care
+4. Millions that don't care
 
-5.Beyond fire hydrant location
+5. Beyond fire hydrant location
 
-6.Lowering the barriers to participation with Field Papers
+6. Lowering the barriers to participation with Field Papers
 
-7.BoF for Offline Mapping
+7. BoF for Offline Mapping
 
 #### Workshops I attended on Monday
-1.Making an interactive map with OSM data (mapbox)
+1. Making an interactive map with OSM data (mapbox)
 
-2.DigitalGlobe and crowdsourcing map
+2. DigitalGlobe and crowdsourcing map
 
-3.OpenDroneMap -> OpenAerialMap-> OpenStreetMap
+3. OpenDroneMap -> OpenAerialMap-> OpenStreetMap
 
 
 
