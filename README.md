@@ -9,14 +9,14 @@ Summary notes from some of the SOTM-US attendees
 ---
 Peter's Note
 #### Talks I attended Saturday
-1.Mapping the Meta
+1. Mapping the Meta
 >Looked at who/where/when people were making the edits
 
-2.[ImproveOSM](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
+2. [ImproveOSM](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
 Using Big Data to Improve the map
 >Telenav, using their probe data, following items can help improve OSM data, they are missing roads, traffic flow and turn restriction
 
-3.OSM & the Sustainable development goals
+3. OSM & the Sustainable development goals
 
 4.Combating hegemonic cartographic discourses with drones
 
