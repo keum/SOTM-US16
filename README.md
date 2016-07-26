@@ -14,11 +14,11 @@ Peter's Note
 
 2.ImproveOSM: Using Big Data to Improve the map
 
-3. OSM & the Sustainable development goals
+3.OSM & the Sustainable development goals
 
-4. Combating hegemonic cartographic discourses with drones
+4.Combating hegemonic cartographic discourses with drones
 
-5. Field mapping with Portable OSM (POSM)
+5.Field mapping with Portable OSM (POSM)
 - 
 
 
