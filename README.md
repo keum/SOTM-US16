@@ -8,8 +8,14 @@ Summary notes from some of the SOTM-US attendees
 
 ---
 Peter's Note
-##### Talks I attended
-..1. Mapping the Meta
+#### Talks I attended Saturday
+1. Mapping the Meta
+2. ImproveOSM: Using Big Data to Improve the map
+3. OSM & the Sustainable development goals
+4. Combating hegemonic cartographic discourses with drones
+5. Field mapping with Portable OSM (POSM)
+6. 
+
 
 
 ---
