@@ -56,7 +56,31 @@ Using Big Data to Improve the map by Telenav
 Paul's Note
 
 ---
-Fred's Note
+Fred's Notes
+
+#### Saturday
+[**Let's Get LA on the map!  The Los Angeles Building Import Case Study**](http://stateofthemap.us/2016/lets-get-la-on-the-map/) [Community]: Video available. Big imports are difficult to coordinate. There's no good standard for cities or communities to use when undertaking projects like this.
+
+[**How can AI help us make maps?**](http://stateofthemap.us/2016/how-can-ai-help-us-make-maps/) [Direction]: Facebook's looking at using machine learning to delineate roads from imagery. It's been somewhat successful. 
+
+[**Beyond Aesthetic Icing: Designing geo tools for humans**](http://stateofthemap.us/2016/beyond-aesthetic-icing/) [Getting Around]: Video available. Focuses on the development of Mapzen's Transitland Playground.
+
+[**OpenStreetMap lights up the world for blind users with sound**](http://stateofthemap.us/2016/osm-lights-up-the-world-for-blind-users-with-sound/) [Getting Around]: Video available. One of my favorite talks of the conference.
+
+#### Sunday
+[**Spatial Analysis in the Developing World: Measuring Access with OpenStreetMap & OpenTripPlanner**](http://stateofthemap.us/2016/spatial-analysis-in-the-developing-world/) [Technical]: Video available. Good application of walkshed analysis in Uganda.
+
+[**From an OSM Way to a Highway Shield**](http://stateofthemap.us/2016/from-an-osm-way-to-a-highway-shield/) [Technical]: Video available. Nitty-gritty talk about processing OSM data into a cartographically useful form for Tableau.
+
+[**Befriending a Geocoder**](http://stateofthemap.us/2016/befriending-a-geocoder/) [Technical]: Video available. A history of geocoders and a little bit about making tags useful for geocoders.
+
+[**Validating the Map**](http://stateofthemap.us/2016/validating-the-map/) [Technical]: Video available. Covered the way that Mapbox validates OSM data.
+
+[**Millions that don't care**](http://stateofthemap.us/2016/millions-that-dont-care/) [Tools]: Video available. Maps.me made OSM editing available on their app and ran into some issues. The OSM community doesn't seem fully prepared for an influx of new users. OSM needs better tutorials and ways for people to easily learn how to add data.
+
+[**What if it doesn't belong in OpenStreetMap?**](http://stateofthemap.us/2016/what-if-it-doesnt-belong-in-osm/) [Tools]: Video available. Maphubs appears to be aspiring to be like an ArcGIS online for OSM, where you can add data, style a map, and save it for sharing.
+
+[**OpenStreetView**](http://stateofthemap.us/2016/openstreetview/) [Imagery]: Video available. Telenav is building their own street view product.
 
 ---
 Debbie's Note
