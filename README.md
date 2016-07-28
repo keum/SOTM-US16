@@ -6,8 +6,10 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 #### Where: Seattle, WA
 #### What: Annual gathering of OpenStreetMap user/viewer/contributors from US
 
+[Paul's Notes](#paul)
+
 ---
-Peter's Note
+Peter's Notes
 #### Talks I attended Saturday
 1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
 >Looked at who/where/when people were making the edits
@@ -77,7 +79,7 @@ Fred's Notes
 [**OpenStreetView**](http://stateofthemap.us/2016/openstreetview/) [Imagery]: Video available. Telenav is building their own street view product.
 
 ---
-Paul's Note
+<a name="paul"></a>Paul's Note
 
 #### Saturday
 
