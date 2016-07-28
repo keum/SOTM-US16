@@ -99,7 +99,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
   * If not this may not be a problem.
 * Open source communities do not share the legal system's top down world view.
 
-## Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
+### Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
 * [Slides](https://hi.stamen.com/openstreetmap-past-s-openstreetmap-future-s-cafddc2a4736#.7lqpz3oox)
 * 2M registered users
 * 3.5K active mappers per month
@@ -128,7 +128,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
     * OSM wiki has really good import documentation
 * Miami has an initiative modeled after this.
 
-Building community through mapathons and community mapping - Drishte
+### Building community through mapathons and community mapping - Drishte
 * Missing Maps
   * Putting the world's vulnerable people on the map.
   * 275 mapathons in 33 countries
@@ -137,7 +137,7 @@ Building community through mapathons and community mapping - Drishte
   * 20K slices of pizza
 * [Paul's Stats](http://www.missingmaps.org/users/#/1778296)
 
-Field mapping with Portable OpenStreetMap (POSM) and OpenMapKit
+### Field mapping with Portable OpenStreetMap (POSM) and OpenMapKit
 * $300 device capable of hosting a mapathon
 * Not a lot of custom software. It's all glue.
   * Open map kit
@@ -146,14 +146,14 @@ Field mapping with Portable OpenStreetMap (POSM) and OpenMapKit
   * Full copy of OpenStreetMap server with local data
 * OSM is a geographic data exchange. But it's easier to use than a Geoportal
 
-GISCorps: A volunteer community of GIS professionals
+### GISCorps: A volunteer community of GIS professionals
 * 38 on-site missions
 * 149 remote missions
 * No funding for travel
 * Teach GIS in Kabul
 * North Korea base map took 5 years with approximately 90 volunteers
     
-Beyond Aesthetic Icing: Designing geo tools for humans - Transitland
+### Beyond Aesthetic Icing: Designing geo tools for humans - Transitland
 * https://transit.land/
 * Aggregates transit data sources
 * [Mickey's 10 Commandments](http://www.themedattraction.com/mickeys10commandments.htm)
@@ -164,7 +164,7 @@ Beyond Aesthetic Icing: Designing geo tools for humans - Transitland
   * Tell one story at a time
 * Surprised that they do not see much demand for downloading data.
 
-OpenStreetMap lights up the world for blind users with sound
+### OpenStreetMap lights up the world for blind users with sound
 * http://www.citiesunlocked.org.uk/
 * Custom headset and remote connected to iOS app
 * Announcement of landmarks are located directionally in surround sound
@@ -178,7 +178,7 @@ OpenStreetMap lights up the world for blind users with sound
 
 #### Sunday
 
-Keynote: Dale Kunce - American Red Cross
+### Keynote: Dale Kunce - American Red Cross
 * Corporate mapathon. Employee hours of missing maps are matched with donations
 * Estimate population density with OSM buildings
 * Use OpenMapKit for field survey
@@ -187,7 +187,7 @@ Keynote: Dale Kunce - American Red Cross
 * Can map with ten dollar African cell phone
 * "Putting things on the map makes stuff real."
     
-Using OpenStreetMap for Neighborhood Development and Feedback
+### Using OpenStreetMap for Neighborhood Development and Feedback
 * Field mapping
   * Likes [Field Papers](http://fieldpapers.org/)
   * Likes [Pushpin](http://www.pushpinosm.org/)
@@ -202,7 +202,7 @@ Using OpenStreetMap for Neighborhood Development and Feedback
   * Non mappers with you will notice things that you wont
 * Is it a good thing for companies to get involved in these kind of projects? Yes as 
         
-Maptime, Motherhood and Martyrdom: When Running an Open Source Community Becomes Too Much
+### Maptime, Motherhood and Martyrdom: When Running an Open Source Community Becomes Too Much
 * Don't make everyone an admin on your GitHub account
 * Easier to get non-profit status if you have a bank account
 * Everything got better when she admitted she was burnt out to others
@@ -210,7 +210,7 @@ Maptime, Motherhood and Martyrdom: When Running an Open Source Community Becomes
 * Consider getting a fiscal sponsor
 * Set time limits on your volunteer effort to avoid burnout
     
-One Map, Many Voices - Chase
+### One Map, Many Voices - Chase
 * Theme of conference "building community".
 * Mapping the world together
   * Mapathon = a sewing circle with laptops
@@ -237,7 +237,7 @@ One Map, Many Voices - Chase
   * Can we enforce the license?
     * It hasn't been tested.
             
-Befriending a Geocoder
+### Befriending a Geocoder
 * Mapzen's Pelias
 * Uses "rooftops"
 * Cannot use tags without names
@@ -250,7 +250,7 @@ Befriending a Geocoder
   * Getting libpostal to work
     * Check out their [GitHub Page](https://mapzen.com/blog/inside-libpostal/)
 
-Validating the Map
+### Validating the Map
 * How to validate and detect breakage
 * Why isn't it always broken?  Very little vandalism.
 * Bangalore MapBox does daily manual reviews of a subset of edits
@@ -258,7 +258,7 @@ Validating the Map
 * http://hdyc.neis-one.org/
 * http://zverik.osm.rambler.ru/whodidit/
 
-How to Become an OpenStreetMap Meetup Host
+### How to Become an OpenStreetMap Meetup Host
 * Not enough mappers in the US
 * You should start your own Meetup group
 * Most of the 5-6 hundred Meetup members you never see.
@@ -268,14 +268,14 @@ How to Become an OpenStreetMap Meetup Host
 * Join other Meetups to attract members. Meetups that you think would be interested in OSM.
 * Clifford sends a welcome message out to every new mapper in Washington.
 
-Beyond fire hydrant location: what firefighters need to know
+### Beyond fire hydrant location: what firefighters need to know
 * Tacoma fire department
 * 388 personnel. 1 GIS analyst
 * Tacoma never had a great fire, yielding interesting architecture variety
 * Trees
 * Flammable sources especially fixed propane tanks
     
-OpenStreetView
+### OpenStreetView
 * Get different information from street level imagery vs. aerial imagery
   * Highway signs, addresses, business signs.
 * http://openstreetview.org/map/
@@ -288,18 +288,18 @@ OpenStreetView
   * Almost everything is open source
   * You own your data
 
-Dynamic Timewarp Barycenter Averaging: Repairing Polyline Path Information with User Trajectory Data
+### Dynamic Timewarp Barycenter Averaging: Repairing Polyline Path Information with User Trajectory Data
 * Segment data is often bad due to GPS noise
 * Way over my head
 * Important to handle altitude separate from positional data.
     
-Behind the Scenes of the Mapzen Targeted Editing Series - Engaging Editors
+### Behind the Scenes of the Mapzen Targeted Editing Series - Engaging Editors
 * http://indyhurt.github.io/poi-stats/queries/retrospective/graphics/TargetedEditingRetrospective.pdf
 * https://mapzen.com/tag/targeted-editing/
 * Most new users start in an area that is already heavily populated. But there is still lots to do.
 * Digitizing grounds really highlights a significant facilities
     
-OpenStreetMap Analytics: Rewarding contributors by tracking OpenStreetMap in real-time
+### OpenStreetMap Analytics: Rewarding contributors by tracking OpenStreetMap in real-time
 * https://www.developmentseed.org/
 * Redesigned MissingMaps  website
 * Change set = data + metadata
@@ -318,7 +318,7 @@ OpenStreetMap Analytics: Rewarding contributors by tracking OpenStreetMap in rea
 
 #### Monday
 
-How to make the most out of OSM Evangelization
+### How to make the most out of OSM Evangelization
 * [Missing Maps](http://www.missingmaps.org/)
   * You know the drill
 * [Mapillary](https://www.mapillary.com/)
@@ -372,7 +372,7 @@ How to make the most out of OSM Evangelization
   * Comic style guide for missing maps or similar project.
 * As I was leaving I had a conversation with a guy from [Seattle Mesh Net](https://seattlemesh.net/). He's looking for people to participate in setting up an independent local network.
 
-Faites vos jeux - Here's the New [MapRoulette](http://maproulette.org/)
+### Faites vos jeux - Here's the New [MapRoulette](http://maproulette.org/)
 * [Slides for this presentation](http://Bit.ly/maproulette-workshop)
 * After license change had to replace 80-90% of roads in OSM - this gave rise to Map Roulette
 * There is an [API](http://maproulette.org:8000/#/Project)
@@ -406,7 +406,7 @@ Faites vos jeux - Here's the New [MapRoulette](http://maproulette.org/)
       * Sub optimal because it's not just one thing.
   * Use municipal sidewalk shape file to code ways as having sidewalks
             
-Tagging and mapping for routing and navigation
+### Tagging and mapping for routing and navigation
 * What would it take to make OSM navigable?
   * Roads
   * Access Restrictions
