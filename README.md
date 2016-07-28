@@ -124,8 +124,8 @@ Let's get LA on the map
 * Decided not to include addresses because apartment complexes are all stacked for entire complexes.
 * There are some systematic problems that still need to be cleaned-up
 * Debbie Represent!
-  * Any effort to abstract the process and make a guide and method
-  * OSM wiki has really good import documentation
+  * Question: Any effort to abstract the process and make a guide and method
+    * OSM wiki has really good import documentation
 * Miami has an initiative modeled after this.
 
 Building community through mapathons and community mapping - Drishte
@@ -135,7 +135,7 @@ Building community through mapathons and community mapping - Drishte
   * 11,800 contributors
   * 23M edits
   * 20K slices of pizza
-* http://www.missingmaps.org/users/#/1778296
+* [Paul's Stats](http://www.missingmaps.org/users/#/1778296)
 
 Field mapping with Portable OpenStreetMap (POSM) and OpenMapKit
 * $300 device capable of hosting a mapathon
@@ -156,9 +156,13 @@ GISCorps: A volunteer community of GIS professionals
 Beyond Aesthetic Icing: Designing geo tools for humans - Transitland
 * https://transit.land/
 * Aggregates transit data sources
-* http://www.themedattraction.com/mickeys10commandments.htm
-  * 1,3,5,6,7
-* Do not see much demand for downloading data
+* [Mickey's 10 Commandments](http://www.themedattraction.com/mickeys10commandments.htm)
+  * Know your audience
+  * Organize the flow of people and ideas
+  * Communicate with visual literacy
+  * Avoid Overload
+  * Tell one story at a time
+* Surprised that they do not see much demand for downloading data.
 
 OpenStreetMap lights up the world for blind users with sound
 * http://www.citiesunlocked.org.uk/
@@ -178,15 +182,15 @@ Keynote: Dale Kunce - American Red Cross
 * Corporate mapathon. Employee hours of missing maps are matched with donations
 * Estimate population density with OSM buildings
 * Use OpenMapKit for field survey
-* http://mapswipe.org/
+* [MapSwipe](http://mapswipe.org/)
 * Changed from GPL to BSD license
 * Can map with ten dollar African cell phone
 * "Putting things on the map makes stuff real."
     
 Using OpenStreetMap for Neighborhood Development and Feedback
 * Field mapping
-  * Likes field papers: 
-  * Like Pushpin
+  * Likes [Field Papers](http://fieldpapers.org/)
+  * Likes [Pushpin](http://www.pushpinosm.org/)
 * Georgia Avenue Youth Mappers in Washington, DC
   * 2014
   * Remote mapping of buildings
