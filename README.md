@@ -90,7 +90,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 
 #### Saturday
 
-## Law clinics and the OpenStreetMap Community - Harvard law student 
+### Law clinics and the OpenStreetMap Community - Harvard law student 
 * Identify the points of tension surrounding ODbL and geocoding
 * Interviewees were concerned about share alike and mixing other data
 * No specific resources available for geocoding.
