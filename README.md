@@ -103,13 +103,13 @@ Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
 * 2M registered users
 * 3.5K active mappers per month
 * Wikipedia contribution rate is going down.
-        ○ Notibility guidline may scare people away
+  * Notibility guidline may scare people away
 * OSM does not require notability but concerns about maintenance. "Map gardening"?
 * Four futures plotting total features vs edits:
-        ○ Ghost Town - no new features or edits
-        ○ Garden - no new features lots of edits (notability?)
-        ○ Borgesian map - lots or new features, no edits (https://en.wikipedia.org/wiki/On_Exactitude_in_Science)( roads as polygons?)
-        ○ Singularity - lots of new features and lots of edits.
+  * Ghost Town - no new features or edits
+  * Garden - no new features lots of edits (notability?)
+  * Borgesian map - lots or new features, no edits (https://en.wikipedia.org/wiki/On_Exactitude_in_Science)( roads as polygons?)
+  * Singularity - lots of new features and lots of edits.
 * Gardening edits need to equal new node error rate + real word changes
 
 Let's get LA on the map
@@ -123,26 +123,26 @@ Let's get LA on the map
 * Decided not to include addresses because apartment complexes are all stacked for entire complexes.
 * There are some systematic problems that still need to be cleaned-up
 * Debbie Represent!
-        ○ Any effort to abstract the process and make a guide and method
-        ○ Osm wiki has really good import documentation
+  * Any effort to abstract the process and make a guide and method
+  * Osm wiki has really good import documentation
 * Miami has an initiative modeled after this.
 
 Building community through mapathons and community mapping - Drishte
 * Missing Maps
-        ○ Putting the world's vulnerable people on the map.
-        ○ 275 mapathons in 33 countries
-        ○ 11,800 contributors
-        ○ 23M edits
-        ○ 20K slices of pizza
+  * Putting the world's vulnerable people on the map.
+  * 275 mapathons in 33 countries
+  * 11,800 contributors
+  * 23M edits
+  * 20K slices of pizza
 * http://www.missingmaps.org/users/#/1778296
 
 Field mapping with Portable OpenStreetMap (POSM) and OpenMapKit
 * $300 device capable of hosting a mapathon
 * Not a lot of custom software. It's all glue.
-        ○ Open map kit
-        ○ Field Papers
-        ○ Wifi hot spot
-        ○ Full copy of open streetmap server with local data
+  * Open map kit
+  * Field Papers
+  * Wifi hot spot
+  * Full copy of open streetmap server with local data
 * OSM is a geographic data exchange. But it's easier than geoportal
 
 GISCorps: A volunteer community of GIS professionals
@@ -156,7 +156,7 @@ Beyond Aesthetic Icing: Designing geo tools for humans - Transitland
 * https://transit.land/
 * Aggregiple transit data sources
 * http://www.themedattraction.com/mickeys10commandments.htm
-        ○ 1,3,5,6,7
+  * 1,3,5,6,7
 * Do not see much demand for downloading data
 
 OpenStreetMap lights up the world for blind users with sound
@@ -166,8 +166,8 @@ OpenStreetMap lights up the world for blind users with sound
 * Wikipedia info is linked to landmarks and available at request.
 * Use mapzen vector tiles and routing
 * OSM  challenges.
-        ○ No sidewalks
-        ○ GPS not accurate enough
+  * No sidewalks
+  * GPS not accurate enough
 * Will work on transit in a future phase
 * Expect to make this available for sighted people eventually
 
@@ -184,17 +184,17 @@ Keynote: Dale Kunce - American Red Cross
     
 Using OpenStreetMap for Neighborhood Development and Feedback
 * Field mapping
-        ○ Likes field papers: 
-        ○ Like pushpin
+  * Likes field papers: 
+  * Like pushpin
 * Georgia Avenue Youth Mappers in Washington, DC
-        ○ 2014
-        ○ Remote mapping of buildings
-        ○ Import buildings from city
-        ○ Kids used field papers
+  * 2014
+  * Remote mapping of buildings
+  * Import buildings from city
+  * Kids used field papers
 * http://wiki.openstreetmap.org/wiki/Georgia_Avenue_Youth_Ambassadors_Mapping_Project#Best_Practices.2FLessons_Learned
-        ○ Saved time working with an existing group
-        ○ They know people who have info about what you are mapping
-        ○ Non mappers with you will notice things that you wont
+  * Saved time working with an existing group
+  * They know people who have info about what you are mapping
+  * Non mappers with you will notice things that you wont
 * Is it a good thing for companies to get involved in these kind of projects? Yes as 
         
 Maptime, Motherhood and Martyrdom: When Running an Open Source Community Becomes Too Much
@@ -208,14 +208,14 @@ Maptime, Motherhood and Martyrdom: When Running an Open Source Community Becomes
 One Map, Many Voices - Chase
 * Theme of conference "building community".
 * Mapping the world together
-        ○ Mapathon = a sewing circle with laptops
+  * Mapathon = a sewing circle with laptops
 * Call to action
-        ○ Map what you know
-        ○ Install an editor on your phone
-        ○ You are the expert
+  * Map what you know
+  * Install an editor on your phone
+  * You are the expert
 * We have a philosophy - teaching civics
-        ○ Need to spread our philosophy as fast as our data/applications
-        ○ There have been calls to dump the ODbL
+  * Need to spread our philosophy as fast as our data/applications
+  * There have been calls to dump the ODbL
             § That will hurt the map
             § Corporate interest for differentiation will lead to fragmentation
                 □ Proprietary Unixes
@@ -227,8 +227,8 @@ One Map, Many Voices - Chase
 * Join the OSM Foundation and vote for people who share your philosophy
 * "…as close to a democratic map as we'll get." Simon Garfield.
 * Questions:
-        ○ Do we need an exception for Gov't data to get it back out? Not worth it.
-        ○ Can we enforce the license? It hasn’t been tested.
+  * Do we need an exception for Gov't data to get it back out? Not worth it.
+  * Can we enforce the license? It hasn’t been tested.
             
 Befriending a Geocoder
 * Mapzen's Pelias
@@ -238,14 +238,14 @@ Befriending a Geocoder
 * 30%  of cuisine venues have addresses
 * https://github.com/pelias/pelias
 * Questions:
-        ○ Do you use open addresses? Yes - https://openaddresses.io/ - use a total of 4 data set
-        ○ Getting libpostal to work - https://github.com/openvenues/libpostalhow to v
+  * Do you use open addresses? Yes - https://openaddresses.io/ - use a total of 4 data set
+  * Getting libpostal to work - https://github.com/openvenues/libpostalhow to v
 
 Validating the Map
 * How to validate and detect breakage
 * Why isn't it always broken?  Very little vandalism.
 * Bangalore mapbox does daily manual reviews of a subset of edits
-        ○ Identify the kinds of problems caused by bad edits.
+  * Identify the kinds of problems caused by bad edits.
 * http://hdyc.neis-one.org/
 * http://zverik.osm.rambler.ru/whodidit/
 * 
@@ -268,16 +268,16 @@ Beyond fire hydrant location: what firefighters need to know
     
 OpenStreetView
 * Get different information from streetlevel imagery vs. aerial imagery
-        ○ Highway signs, addresses, business signs.
+  * Highway signs, addresses, business signs.
 * http://openstreetview.org/map/
 * OpenStreetView Editor. Cross platform
 * Detects us speedlimit signs
 * Use ODB2 diagnostic dongle to enhance data collected. Has a recommendation
 * Why this when there is Mapilary - https://www.mapilary.com/
-        ○ Truly Open
-        ○ 100% OSM focused
-        ○ Almost everything is open source
-        ○ You own your data
+  * Truly Open
+  * 100% OSM focused
+  * Almost everything is open source
+  * You own your data
 
 Dynamic Timewarp Barycenter Averaging: Repairing Polyline Path Information with User Trajectory Data
 * Segment data is often bad due to GPS noise
@@ -296,11 +296,11 @@ OpenStreetMap Analytics: Rewarding contributors by tracking OpenStreetMap in rea
 * Change set = data + metadata
 * Metadata analyzed to comment about the community and growth
 * Hashtags are for grouping change sets in non spatial ways:
-        ○ by event
-        ○ By time
-        ○ By groups(data teams)
+  * by event
+  * By time
+  * By groups(data teams)
 * Feedback loops
-        ○ Making better mappers
+  * Making better mappers
             § Analyzing community
             § Rewarding contributors
             § Encouraging validators
@@ -311,57 +311,57 @@ OpenStreetMap Analytics: Rewarding contributors by tracking OpenStreetMap in rea
 
 How to make the most out of OSM Evangelization
 * Missing Maps : http://www.missingmaps.org/
-        ○ You know the drill
+  * You know the drill
 * Mapillary: https://www.mapillary.com/
-        ○ Crowd sourced photos
-        ○ How different from OpenStreetView? Not used only on OSM  and not focused only on streets.
+  * Crowd sourced photos
+  * How different from OpenStreetView? Not used only on OSM  and not focused only on streets.
 * Maptime: http://maptime.io/
-        ○ Creates a community space to bounce ideas of each other
-        ○ Create safe spaces for women, people of color, and non-english speakers
+  * Creates a community space to bounce ideas of each other
+  * Create safe spaces for women, people of color, and non-english speakers
 * MapGive: http://mapgive.state.gov/
-        ○ State Department
-        ○ Keep connected with embassy's of other countries
-        ○ Leveraging the metrics work that missing maps has created
-        ○ Using Slack they have good connections with individuals to cut through bureaucracy.
-        ○ Worth asking if they have newer imagery for HOT/Missing Maps projects where Bing imagery is too old or too low res.
+  * State Department
+  * Keep connected with embassy's of other countries
+  * Leveraging the metrics work that missing maps has created
+  * Using Slack they have good connections with individuals to cut through bureaucracy.
+  * Worth asking if they have newer imagery for HOT/Missing Maps projects where Bing imagery is too old or too low res.
             § Email mapgive@state.gov
             § Has to be "in the interest of the US Federal Government"
 * GeoCensos: http://www.geocensos.com/
-        ○ Train local field mappers
-        ○ Works with many Spanish speaking countries
-        ○ The Stats Ups Proyect to build a sustainable project that continues after they have gone.
-        ○ UN program SDG will provide a need for collecting data in countries where they have never collected that kind of data before.
+  * Train local field mappers
+  * Works with many Spanish speaking countries
+  * The Stats Ups Proyect to build a sustainable project that continues after they have gone.
+  * UN program SDG will provide a need for collecting data in countries where they have never collected that kind of data before.
             § https://sustainabledevelopment.un.org/sdgs
 * Youth Mappers: http://www.youthmappers.org/
-        ○ Teach open source as part of prep for working in geospatial
-        ○ Students often did better in OSM portion of program because they were engaged in helping people
-        ○ US Aid tasks/HOT tasks/Missing Maps tasks
-        ○ Students made official student organization to do humanitarian work on an ongoing basis
+  * Teach open source as part of prep for working in geospatial
+  * Students often did better in OSM portion of program because they were engaged in helping people
+  * US Aid tasks/HOT tasks/Missing Maps tasks
+  * Students made official student organization to do humanitarian work on an ongoing basis
             § End up with students teaching students
             § Student started organizations
-        ○ http://teachosm.org/en/
-        ○ http://tasks.teachosm.org/ to keep the HOT tasking manager clear of teaching efforts
-        ○ Consider reaching out to highschool students looking for a community service project in order to graduate.
+  * http://teachosm.org/en/
+  * http://tasks.teachosm.org/ to keep the HOT tasking manager clear of teaching efforts
+  * Consider reaching out to highschool students looking for a community service project in order to graduate.
 * Ideas for evagalism
-        ○ Get involved in OSM GeoWeek
-        ○ Need to reach out beyond your own community
-        ○ Corporate partnerships not for money but for volunteer time - Missing Maps
+  * Get involved in OSM GeoWeek
+  * Need to reach out beyond your own community
+  * Corporate partnerships not for money but for volunteer time - Missing Maps
             § Do a train the trainer
             § Employees then continue to map on their spare time.
             § Also partner with any kind of established meet-up group
-        ○ Missing Maps: Map Swipe 
+  * Missing Maps: Map Swipe 
             § Even easier than doing a mapathon
-        ○ Mapathon can be your "Gateway drug" to humanitarianism
-        ○ Mapillary & Missing Maps allow you to move people beyond the introduction to OSM and into more advanced tasks.
-        ○ Mapillary publishes stories that get shared as a way to inspire others to do more.
+  * Mapathon can be your "Gateway drug" to humanitarianism
+  * Mapillary & Missing Maps allow you to move people beyond the introduction to OSM and into more advanced tasks.
+  * Mapillary publishes stories that get shared as a way to inspire others to do more.
             § Local & National media will pick up these stories sometimes which generates more visibility
-        ○ Target older mappers, give retirees something meaningful  to do.
-        ○ Leverage Glympse somehow: https://www.glympse.com/
+  * Target older mappers, give retirees something meaningful  to do.
+  * Leverage Glympse somehow: https://www.glympse.com/
 * What do you see in the Future
-        ○ We will add 200,000 more people to the map as represented by their buildings
-        ○ More detailed and higher value data due to more and more local mappers
-        ○ People now have all the tools they need. Local mappers need to be told how to use them.
-        ○ Comic style guide for missing maps or similar project
+  * We will add 200,000 more people to the map as represented by their buildings
+  * More detailed and higher value data due to more and more local mappers
+  * People now have all the tools they need. Local mappers need to be told how to use them.
+  * Comic style guide for missing maps or similar project
         
 Seattle Mesh Net
 * https://seattlemesh.net/
@@ -371,51 +371,51 @@ Faites vos jeux - Here's the New MapRoulette
 * http://Bit.ly/maproulette-workshop
 * After license change had to replace 80-90% of roads in OSM - this gave rise to Map Roulette
 * There is an API: http://maproulette.org:8000/#/Project
-        ○ Welcome contributions to the documentation
+  * Welcome contributions to the documentation
 * What makes a great challenge?
-        ○ Tasks are easy to understand
-        ○ Tasks are easy to fix
-        ○ Microtasks - 30 to 120 seconds is ideal
-        ○ Addictive to do
-        ○ Do not require local knowledge
-        ○ Keep the number of tasks for a challenge to be no more than a few thousands.
-            ○ Split by geography to make it smaller
+  * Tasks are easy to understand
+  * Tasks are easy to fix
+  * Microtasks - 30 to 120 seconds is ideal
+  * Addictive to do
+  * Do not require local knowledge
+  * Keep the number of tasks for a challenge to be no more than a few thousands.
+      * Split by geography to make it smaller
 * This is an armchair mapping tool.
 * Create data for input
-        ○ 2 entry points
-            ○ Query overpass: A query interface to OSM
-            ○ External data
+  * 2 entry points
+      * Query overpass: A query interface to OSM
+      * External data
                 □ OGR
                 □ QGIS
                 □ geoJSON.IO
 * You can use tags to prioritize some tasks over others. The high priority tasks will be served out first.
 * Instructions can be formatted with Markdown
 * Ideas for map roulette
-        ○ Fixing an import
-            ○ One way streets with random direction
-            ○ Things named Park are not neccesarily an recreation ammenity
-        ○ Check to see if Parks are already in OSM
-        ○ Add platforms to railway stations
-        ○ Open closed Cliffs
-        ○ Identify Park features 
-            ○ Sub optimal because it's not just one thing.
-        ○ Use municipal sidewalk shapefile to code ways as having sidewalks
+  * Fixing an import
+      * One way streets with random direction
+      * Things named Park are not neccesarily an recreation ammenity
+  * Check to see if Parks are already in OSM
+  * Add platforms to railway stations
+  * Open closed Cliffs
+  * Identify Park features 
+      * Sub optimal because it's not just one thing.
+  * Use municipal sidewalk shapefile to code ways as having sidewalks
             
 Tagging and mapping for routing and navigation
 * What would it take to make OSM navigable?
-        ○ Roads
-        ○ Access Restrictions
-        ○ Turn lanes
-        ○ Speed limits
-        ○ Destination signs
+  * Roads
+  * Access Restrictions
+  * Turn lanes
+  * Speed limits
+  * Destination signs
 * Cannot rely on imagery. Instead use Mapillary
-        ○ Not just images, but he underlying data.
-        ○ Detects traffic signs
+  * Not just images, but he underlying data.
+  * Detects traffic signs
 * Mapping Turn lanes in OSM
-        ○ turn:lanes=left
-        ○ turn:lanes=through
+  * turn:lanes=left
+  * turn:lanes=through
 * Use JOSM editor
-        ○ Add map paint style for lane and road attributes & traffic signs
+  * Add map paint style for lane and road attributes & traffic signs
             § Tagging presets land attributes
             § Filter out non road features
 * Be sure to mark turn lanes all the way through to the intersection. Don't stop it at the crosswalk
