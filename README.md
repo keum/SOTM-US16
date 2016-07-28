@@ -340,7 +340,7 @@ How to make the most out of OSM Evangelization
   * Works with many Spanish speaking countries
   * The Stats Up Project to build a sustainable project that continues after they have gone.
   * UN program [SDG](https://sustainabledevelopment.un.org/sdgs) will provide a need for collecting data in countries where they have never collected that kind of data before.
-* Youth Mappers: http://www.youthmappers.org/
+* [Youth Mappers](http://www.youthmappers.org/)
   * Teach open source as part of prep for working in the geospatial field.
   * Students often did better in OSM portion of program because they were engaged in helping people
   * US Aid tasks/HOT tasks/Missing Maps tasks
