@@ -9,7 +9,7 @@ Summary notes from some of the SOTM-US attendees
 ---
 Peter's Note
 #### Talks I attended Saturday
-1. Mapping the Meta
+1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
 >Looked at who/where/when people were making the edits
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
