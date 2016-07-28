@@ -1,4 +1,4 @@
-# SOTM-US16
+<a name="top"></a># SOTM-US16
 
 Summary notes and videos recordings from some of the SOTM-US attendees
 
@@ -6,10 +6,10 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 #### Where: Seattle, WA
 #### What: Annual gathering of OpenStreetMap user/viewer/contributors from US
 
-[Paul's Notes](#paul)
+[Peter's Notes](#peter) | [Fred's Notes](#fred) | [Paul's Notes](#paul)
 
 ---
-Peter's Notes
+<a name="peter"></a>Peter's Notes
 #### Talks I attended Saturday
 1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
 >Looked at who/where/when people were making the edits
@@ -52,7 +52,7 @@ Peter's Notes
 3. OpenDroneMap -> OpenAerialMap-> OpenStreetMap
 
 ---
-Fred's Notes
+<a name="fred"></a>Fred's Notes
 
 #### Saturday
 [**Let's Get LA on the map!  The Los Angeles Building Import Case Study**](http://stateofthemap.us/2016/lets-get-la-on-the-map/) [Community]: Video available. Big imports are difficult to coordinate. There's no good standard for cities or communities to use when undertaking projects like this.
