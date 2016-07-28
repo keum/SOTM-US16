@@ -95,20 +95,21 @@ Law clinics and the OpenStreetMap Community - Harvard law student
 * Interviewees were concerned about share alike and mixing other data
 * No specific resources available for geocoding.
 * Suggest us board point of contact for geocoding
-* Question: is geocoding a high priority for OSM community overall? If not this may not be a problem.
+* Question: Is geocoding a high priority for OSM community overall?
+  * If not this may not be a problem.
 * Open source communities do not share the legal system's top down world view.
 
 Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
-* https://hi.stamen.com/openstreetmap-past-s-openstreetmap-future-s-cafddc2a4736#.7lqpz3oox
+* [Slides](https://hi.stamen.com/openstreetmap-past-s-openstreetmap-future-s-cafddc2a4736#.7lqpz3oox)
 * 2M registered users
 * 3.5K active mappers per month
 * Wikipedia contribution rate is going down.
   * Notability guideline may scare people away
-* OSM does not require notability but concerns about maintenance. "Map gardening"?
+* OSM does not require notability but there are concerns about maintenance. "Map gardening"?
 * Four futures plotting total features vs edits:
   * Ghost Town - no new features or edits
   * Garden - no new features lots of edits (notability?)
-  * Borgesian map - lots or new features, no edits (https://en.wikipedia.org/wiki/On_Exactitude_in_Science)( roads as polygons?)
+  * [Borgesian map](https://en.wikipedia.org/wiki/On_Exactitude_in_Science) - lots of new features, no edits. (Roads as polygons?)
   * Singularity - lots of new features and lots of edits.
 * Gardening edits need to equal new node error rate + real word changes
 
