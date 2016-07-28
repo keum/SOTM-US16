@@ -1,6 +1,6 @@
 # SOTM-US16
 
-Summary notes from some of the SOTM-US attendees
+Summary notes and videos recordings from some of the SOTM-US attendees
 
 #### When: July 23 - 25, 2016
 #### Where: Seattle, WA
@@ -13,10 +13,10 @@ Peter's Note
 >Looked at who/where/when people were making the edits
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
-Using Big Data to Improve the map by Telenav
->Telenav, using their probe data, following items can help improve OSM data, they are missing roads, traffic flow and turn restriction
+[Using Big Data to Improve the map](http://stateofthemap.us/2016/improve-osm/) by Telenav
+>Telenav, using their probe data, following items can help improve OSM data, 1. missing roads, 2. traffic flow and 3. figure out turn restriction
 
-3. OSM & the Sustainable development goals by Tyler Radford, Humanitarian OpenStreetMap Team 
+3. [OSM & the Sustainable development goals by Tyler Radford, Humanitarian OpenStreetMap Team 
 >
 
 4. Combating hegemonic cartographic discourses with drones
