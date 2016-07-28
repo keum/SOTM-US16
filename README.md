@@ -113,7 +113,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
   * Singularity - lots of new features and lots of edits.
 * Gardening edits need to equal new node error rate + real word changes
 
-Let's get LA on the map
+### Let's get LA on the map
 * http://labuildingsimport.com/
 * Description of the LA import
 * How to use open street map for journalism
