@@ -1,4 +1,5 @@
-<a name="top"></a># SOTM-US16
+<a name="top"></a>
+# SOTM-US16
 
 Summary notes and videos recordings from some of the SOTM-US attendees
 
@@ -10,6 +11,8 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 
 ---
 <a name="peter"></a>Peter's Notes
+[Return to Top](#top)
+
 #### Talks I attended Saturday
 1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
 >Looked at who/where/when people were making the edits
@@ -53,6 +56,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 
 ---
 <a name="fred"></a>Fred's Notes
+[Return to Top](#top)
 
 #### Saturday
 [**Let's Get LA on the map!  The Los Angeles Building Import Case Study**](http://stateofthemap.us/2016/lets-get-la-on-the-map/) [Community]: Video available. Big imports are difficult to coordinate. There's no good standard for cities or communities to use when undertaking projects like this.
@@ -79,7 +83,8 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 [**OpenStreetView**](http://stateofthemap.us/2016/openstreetview/) [Imagery]: Video available. Telenav is building their own street view product.
 
 ---
-<a name="paul"></a>Paul's Note
+<a name="paul"></a>Paul's Notes
+[Return to Top](#top)
 
 #### Saturday
 
@@ -417,12 +422,12 @@ Tagging and mapping for routing and navigation
     • U-Turn turn lanes
 
 ---
-Debbie's Note
+Debbie's Notes
 
 ---
-Joel's Note
+Joel's Notes
 
 ---
-Matt's Note
+Matt's Notes
 
 ---
