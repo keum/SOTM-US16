@@ -90,7 +90,7 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 
 #### Saturday
 
-Law clinics and the OpenStreetMap Community - Harvard law student 
+## Law clinics and the OpenStreetMap Community - Harvard law student 
 * Identify the points of tension surrounding ODbL and geocoding
 * Interviewees were concerned about share alike and mixing other data
 * No specific resources available for geocoding.
@@ -99,7 +99,7 @@ Law clinics and the OpenStreetMap Community - Harvard law student
   * If not this may not be a problem.
 * Open source communities do not share the legal system's top down world view.
 
-Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
+## Open Street Map Past(s), Open Street Map Future(s) - Alan McConchie - Stamen
 * [Slides](https://hi.stamen.com/openstreetmap-past-s-openstreetmap-future-s-cafddc2a4736#.7lqpz3oox)
 * 2M registered users
 * 3.5K active mappers per month
