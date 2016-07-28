@@ -16,10 +16,10 @@ Peter's Note
 [Using Big Data to Improve the map](http://stateofthemap.us/2016/improve-osm/) by Telenav
 >Telenav, using their probe data, following items can help improve OSM data, 1. missing roads, 2. traffic flow and 3. figure out turn restriction
 
-3. [OSM & the Sustainable development goals by Tyler Radford, Humanitarian OpenStreetMap Team 
->
+3. [OSM & the Sustainable development goals](http://stateofthemap.us/2016/osm-and-the-sustainable-development-goals/) by Tyler Radford, Humanitarian OpenStreetMap Team (HOT)
+>HOT has helped Global Goals that were created as a means to measure success. There are 17 goals with 169 targets which translates into 230 indicators that can be measure the success of the project/programs. 
 
-4. Combating hegemonic cartographic discourses with drones
+4. [Combating hegemonic cartographic discourses with drones](http://stateofthemap.us/2016/combating-hegemonic-cartographic-discourses-with-drones/)
 
 5. Field mapping with Portable OSM (POSM)
 
