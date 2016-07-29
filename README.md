@@ -28,7 +28,8 @@ Summary notes and videos recordings from some of the SOTM-US attendees
 4. [Combating hegemonic cartographic discourses with drones](http://stateofthemap.us/2016/combating-hegemonic-cartographic-discourses-with-drones/)
 
 5. Field mapping with Portable OSM (POSM)
-
+*
+ *
 6. How can AI help us make map?
 
 7. Lightning Talks
