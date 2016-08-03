@@ -49,6 +49,7 @@ Offline map - Bird of Feather session.
 
 2.[OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) -> [OpenAerialMap](https://openaerialmap.org/)-> OpenStreetMap
 >OpenDroneMap, Processing drone imagery to generate point cloud, orthomosasic and 3D model then one then can upload onto OpenAerialMap which then can be used to update local OSM data.
+
 ---
 <a name="fred"></a>Fred's Notes
 
