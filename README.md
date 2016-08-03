@@ -15,18 +15,19 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 
 [Return to Top](#top)
 
-#### Talks I attended Saturday
+#### Highlights from Saturday's Talk
 1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
 >Looked at who/where/when people were making the edits. Issue of vandalism, instead of trying to prevent it, just revert the database selectively. There were over 43 millions of vandalized changes but in total of 6 Billion changes, about 0.07 %
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
 [Using Big Data to Improve the map](http://stateofthemap.us/2016/improve-osm/) by Telenav
->Telenav, using their probe data, following items can help improve OSM data, 1. missing roads, 2. traffic flow and 3. figure out turn restriction
+>Telenav, using their probe data, following items can help improve OSM data, 1. missing roads, 2. traffic flow and 3. figure out turn restriction.
 
 3. [OSM & the Sustainable development goals](http://stateofthemap.us/2016/osm-and-the-sustainable-development-goals/) by Tyler Radford, Humanitarian OpenStreetMap Team (HOT)
->HOT has helped Global Goals that were created as a means to measure success. There are 17 goals with 169 targets which translates into 230 indicators that can be measure the success of the project/programs. 
+>HOT has helped Global Goals that were created as a means to measure success. There are 17 goals with 169 targets which translates into 230 indicators that can be measure the success of the project/programs. Data is useful only to be used to solve problems. Using OSM for developmental work is to learn, to lead to drive social changes. 
 
-4. [Combating hegemonic cartographic discourses with drones](http://stateofthemap.us/2016/combating-hegemonic-cartographic-discourses-with-drones/)
+4. [Combating hegemonic cartographic discourses with drones](http://stateofthemap.us/2016/combating-hegemonic-cartographic-discourses-with-drones/) by Britta Ricker, University of Washington, Tacoma.
+>Dr Ricker talked about the power of map and how it offers the user more knowledge in return giving better decision. She made a point that there are lots of volunteer data being generated (OSM) but all in vector data and not raster. How project like OpenAerialMap (OAM)[https://openaerialmap.org/]can help bring together raster data to people. Getting right kind of data to right people, use of robots to gather data in the air, underwater, in disaster area. (Robin Murphy)[https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster?language=en#t-501056] 
 
 5. Field mapping with Portable OSM (POSM)
 *
@@ -35,7 +36,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 
 7. Lightning Talks
 
-#### Talks I attended on Sunday
+#### Highlights from Sunday's Talk
 1. From an OSM way to a Highway shield
 
 2. Trace from Space
