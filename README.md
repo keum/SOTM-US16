@@ -1,11 +1,12 @@
 <a name="top"></a>
 # State of the Map - US 2016 (SOTM-US16)
 
-Summary notes and videos recordings from some of the SOTM-US attendees
+Summary notes and highlights from [CUGOS](http://cugos.org/) attendees
 
+#### What: Annual conference of OpenStreetMap user/viewer/contributors from US
 #### When: July 23 - 25, 2016
-#### Where: Seattle, WA
-#### What: Annual gathering of OpenStreetMap user/viewer/contributors from US
+#### Where: Seattle University Campus, Seattle, WA
+
 
 [Peter's Notes](#peter) | [Fred's Notes](#fred) | [Paul's Notes](#paul)
 
