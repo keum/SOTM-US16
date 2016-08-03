@@ -43,18 +43,14 @@ Offline map -Bird of Feather session.
 1.[Validating the Map](http://stateofthemap.us/2016/validating-the-map/)by Sanjay Bhangar, Mapbox
 >Trying to prevent vandelism and daily check by Mapbox data staffs of OSM data. They've found several most common errors. 1.newbie errors, 2.license violations, 3.accidental breakages 4. intentional damage. MB Bangolore office staffs check daily OSM edits and try verify and fix errors using various in-house developed tools. 
 
-
-
-6. Lowering the barriers to participation with Field Papers
+2.[Lowering the barriers to participation with Field Papers](http://stateofthemap.us/2016/lowering-the-barriers-to-participation-with-field-papers/)by Linsey Jacks by Cadasta Foundation. She talked about use of [Field Papers](http://fieldpapers.org/)for making contributing to OSM with low technology. 
 
 
 #### Workshops I attended on Monday
-1. Making an interactive map with OSM data (mapbox)
+1. Making an interactive map with OSM data (mapbox) - link will be coming
 
-2. DigitalGlobe and crowdsourcing map
-
-3. OpenDroneMap -> OpenAerialMap-> OpenStreetMap
-
+2. OpenDroneMap -> OpenAerialMap-> OpenStreetMap
+>[OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)Processing drone imagery to generate point cloud, orthomosasic and 3D model then one then can upload onto [OpenAerialMap](https://openaerialmap.org/) which then can be used to update local OSM data.
 ---
 <a name="fred"></a>Fred's Notes
 
