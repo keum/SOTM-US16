@@ -3,7 +3,7 @@
 
 Summary notes and highlights by some of [CUGOS](http://cugos.org/people/) attendees
 
-#### What: Annual conference of OpenStreetMap user/viewer/contributors from US
+#### What: Annual conference of OpenStreetMap users/viewers/contributors from US
 #### When: July 23 - 25, 2016
 #### Where: Seattle University Campus, Seattle, WA
 
