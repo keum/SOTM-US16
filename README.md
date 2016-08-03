@@ -31,7 +31,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 She emphaized that using of drone aerial data is valuable because it give temporal resolution, it can give very detail zoom in area spatially, also give time series. By taking same area often, it can record changes. 
 
 5. [Field mapping with Portable OSM (POSM)](http://stateofthemap.us/2016/field-mapping-at-scale/)by American RedCross, SpatialDev, Stamen Design.
->Mix of advance technology + remote areas gives problems. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow was 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync
+>Mix of advance technology + remote areas gives problems. Using portalbe hardware like [Intel NUC}(https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc)with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow was 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync
 
 
 6. How can AI help us make map?
