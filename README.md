@@ -1,5 +1,5 @@
 <a name="top"></a>
-# SOTM-US16
+# State of the Map - US 2016 (SOTM-US16)
 
 Summary notes and videos recordings from some of the SOTM-US attendees
 
