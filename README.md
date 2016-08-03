@@ -16,7 +16,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 [Return to Top](#top)
 
 #### Highlights from Saturday's Talk
-1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
+1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)by Toby Murray
 >Looked at who/where/when people were making the edits. Issue of vandalism, instead of trying to prevent it, just revert the database selectively. There were over 43 millions of vandalized changes but in total of 6 Billion changes, about 0.07 %
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
@@ -31,27 +31,22 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 She emphaized that using of drone aerial data is valuable because it give temporal resolution, it can give very detail zoom in area spatially, also give time series. By taking same area often, it can record changes. 
 
 5. [Field mapping with Portable OSM (POSM)](http://stateofthemap.us/2016/field-mapping-at-scale/)by American RedCross, SpatialDev, Stamen Design.
->Mix of advance technology + remote areas gives problems. Using portalbe hardware like [Intel NUC](https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc)with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow was 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync
+>Mix of advance technology + remote areas gives problems. Using portalbe hardware like [Intel NUC](https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc) with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow is 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync. POSM also has numerous potential to be used for various things that involve you own scenario, with your software with your data. Can use in workshop setting without internet. 
 
 
-6. How can AI help us make map?
+Offline map -Bird of Feather session.
+>[Gregor MacLennan](https://www.digital-democracy.org/ourwork/) from Digital Democracy talked about mapping remote amazon jungle with [Mapeo](https://www.digital-democracy.org/blog/mapeo-preview/) Great project to empower locals to map their sensitive jungle area to protect their environment. Usig iD editor awith peer2peer
 
-7. Lightning Talks
+
 
 #### Highlights from Sunday's Talk
-1. From an OSM way to a Highway shield
+1.[Validating the Map](http://stateofthemap.us/2016/validating-the-map/)by Sanjay Bhangar, Mapbox
+>Trying to prevent vandelism and daily check by Mapbox data staffs of OSM data. They've found several most common errors. 1.newbie errors, 2.license violations, 3.accidental breakages 4. intentional damage. MB Bangolore office staffs check daily OSM edits and try verify and fix errors using various in-house developed tools. 
 
-2. Trace from Space
 
-3. Validating the Map
-
-4. Millions that don't care
-
-5. Beyond fire hydrant location
 
 6. Lowering the barriers to participation with Field Papers
 
-7. BoF for Offline Mapping
 
 #### Workshops I attended on Monday
 1. Making an interactive map with OSM data (mapbox)
