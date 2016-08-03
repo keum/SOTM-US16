@@ -1,7 +1,7 @@
 <a name="top"></a>
 # State of the Map - US 2016 (SOTM-US16)
 
-Summary notes and highlights from [CUGOS](http://cugos.org/) attendees
+Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 
 #### What: Annual conference of OpenStreetMap user/viewer/contributors from US
 #### When: July 23 - 25, 2016
