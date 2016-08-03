@@ -17,7 +17,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/) attendees
 
 #### Talks I attended Saturday
 1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)
->Looked at who/where/when people were making the edits
+>Looked at who/where/when people were making the edits. Issue of vandalism, instead of trying to prevent it, just revert the database selectively. There were over 43 millions of vandalized changes but in total of 6 Billion changes, about 0.07 %
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
 [Using Big Data to Improve the map](http://stateofthemap.us/2016/improve-osm/) by Telenav
