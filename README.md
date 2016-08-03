@@ -31,7 +31,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/people/) attend
 She emphaized that using of drone aerial data is valuable because it give temporal resolution, it can give very detail zoom in area spatially, also give time series. By taking same area often, it can record changes. 
 
 5. [Field mapping with Portable OSM (POSM)](http://stateofthemap.us/2016/field-mapping-at-scale/)by American RedCross, SpatialDev, Stamen Design.
->Mix of advance technology + remote areas gives problems. Using portalbe hardware like [Intel NUC](https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc) with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow is 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync. POSM also has numerous potential to be used for various things that involve you own scenario, with your software with your data. Can use in workshop setting without internet. 
+>Mix of advance technology + remote areas give problems. Using portalbe hardware like [Intel NUC](https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc) with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow is 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync. POSM also has numerous potential to be used for various things that involve you own scenario, with your software with your data. Can use in workshop setting without internet. 
 
 
 Offline map - Bird of Feather session.
@@ -49,8 +49,8 @@ Offline map - Bird of Feather session.
 #### Workshops I attended on Monday
 1. Making an interactive map with OSM data (mapbox) - link will be coming
 
-2. OpenDroneMap -> OpenAerialMap-> OpenStreetMap
->[OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)Processing drone imagery to generate point cloud, orthomosasic and 3D model then one then can upload onto [OpenAerialMap](https://openaerialmap.org/) which then can be used to update local OSM data.
+2.[OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) -> [OpenAerialMap](https://openaerialmap.org/)-> OpenStreetMap
+>OpenDroneMap, Processing drone imagery to generate point cloud, orthomosasic and 3D model then one then can upload onto OpenAerialMap which then can be used to update local OSM data.
 ---
 <a name="fred"></a>Fred's Notes
 
