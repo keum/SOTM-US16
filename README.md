@@ -16,7 +16,7 @@ Summary notes and highlights by some of [CUGOS](http://cugos.org/people/) attend
 [Return to Top](#top)
 
 #### Highlights from Saturday's Talk
-1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/)by Toby Murray
+1. [Mapping the Meta](http://stateofthemap.us/2016/mapping-the-meta/) by Toby Murray
 >Looked at who/where/when people were making the edits. Issue of vandalism, instead of trying to prevent it, just revert the database selectively. There were over 43 millions of vandalized changes but in total of 6 Billion changes, about 0.07 %
 
 2. [*ImproveOSM*](http://improve-osm.org/#27.2155562,-82.2216797,4/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/true,1-0)
@@ -34,16 +34,16 @@ She emphaized that using of drone aerial data is valuable because it give tempor
 >Mix of advance technology + remote areas gives problems. Using portalbe hardware like [Intel NUC](https://www.amazon.com/Intel-NUC5i5RYH-Processor-2-5-Inch-Support/dp/B00SD9IS1S/ref=sr_1_6?s=pc&ie=UTF8&qid=1470201653&sr=1-6&keywords=intel+nuc) with [OpenDataKit](https://opendatakit.org/) with Android phone. POSM was deployed in West Africa to collect spatial data. It covered 5000 villages over 37,000 km2 (14,000 square miles) in 4 months. Goal was to collect data from remote villages and need to push those collected data back up to OSM database. Workflow is 1.prep -> 2.unplug -> 3.use (collect) -> 4.reconnect -> 5. sync. POSM also has numerous potential to be used for various things that involve you own scenario, with your software with your data. Can use in workshop setting without internet. 
 
 
-Offline map -Bird of Feather session.
+Offline map - Bird of Feather session.
 >[Gregor MacLennan](https://www.digital-democracy.org/ourwork/) from Digital Democracy talked about mapping remote amazon jungle with [Mapeo](https://www.digital-democracy.org/blog/mapeo-preview/) Great project to empower locals to map their sensitive jungle area to protect their environment. Usig iD editor awith peer2peer
 
 
 
 #### Highlights from Sunday's Talk
-1.[Validating the Map](http://stateofthemap.us/2016/validating-the-map/)by Sanjay Bhangar, Mapbox
+1.[Validating the Map](http://stateofthemap.us/2016/validating-the-map/) by Sanjay Bhangar, Mapbox
 >Trying to prevent vandelism and daily check by Mapbox data staffs of OSM data. They've found several most common errors. 1.newbie errors, 2.license violations, 3.accidental breakages 4. intentional damage. MB Bangolore office staffs check daily OSM edits and try verify and fix errors using various in-house developed tools. 
 
-2.[Lowering the barriers to participation with Field Papers](http://stateofthemap.us/2016/lowering-the-barriers-to-participation-with-field-papers/)by Linsey Jacks by Cadasta Foundation. She talked about use of [Field Papers](http://fieldpapers.org/)for making contributing to OSM with low technology. 
+2.[Lowering the barriers to participation with Field Papers](http://stateofthemap.us/2016/lowering-the-barriers-to-participation-with-field-papers/) by Linsey Jacks by Cadasta Foundation. She talked about use of [Field Papers](http://fieldpapers.org/)for making contributing to OSM with low technology. 
 
 
 #### Workshops I attended on Monday
